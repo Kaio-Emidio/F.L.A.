@@ -1,4 +1,4 @@
-from turtle import Turtle, onscreenclick, listen, Screen, penup, pendown
+from turtle import Turtle, onscreenclick, Screen
 turtle = Turtle()
 tela = Screen()
 
